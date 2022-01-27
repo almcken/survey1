@@ -1,0 +1,7 @@
+null/YYYY-MM-DD (start date)/1643302068
+0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
+8/days (length of survey)/
+3/occurances per day (windows)/
+S10Q1:I recall what others are explaining to me./TYPE:1/YES:S10Q2/NO:S10Q2/
+S10Q2:I notice errors I make when they occur./TYPE:1/YES:S10Q3/NO:S10Q3/
+S10Q3:I am using the Stop strategy./TYPE:1/YES:END/NO:END/

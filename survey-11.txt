@@ -1,0 +1,5 @@
+null/YYYY-MM-DD (start date)/1643302139
+0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
+8/days (length of survey)/
+3/occurances per day (windows)/
+S11Q1:Rate your current mood from 1 to 9 (1 = negative and 9 = positive)/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/
