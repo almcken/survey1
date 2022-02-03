@@ -1,7 +1,7 @@
-null/ YYYY-MM-DD (start date)/1642113842
-0800/ start time of day in 2-digit hour format (HH) 0 - 23
-14/ days (length of survey)
-4/ occurrences  per day (windows)
+null/ YYYY-MM-DD (start date)/1642113842/
+0800/ start time of day in 2-digit hour format (HH) 0 - 23/
+14/ days (length of survey)/
+4/ occurrences  per day (windows)/
 S4Q1:I have a headache./TYPE:1/YES:S4Q2/NO:END/
 S4Q2:How intense was the headache?/TYPE:1/Mild:S4Q3/Moderate:S4Q3/Severe:S4Q3/
 S4Q3:Headache is interfering with my activities?/TYPE:1/YES:END/NO:END/
