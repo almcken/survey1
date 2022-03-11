@@ -4,6 +4,6 @@ null/ YYYY-MM-DD (start date)
 4/ occurances per day (windows)
 1641939024/created date
 10/ hours survey length in hours per da
-f/ survey type: follow-up, coninues, random
+f/ survey type: follow-up, coninues, random, once
 S9Q1:I have a headache./TYPE:1/YES:S9Q2/NO:END/
 S9Q2: On a scale of 1-9; how bad is your headache?/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/
